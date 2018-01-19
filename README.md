@@ -7,6 +7,13 @@ This project template is actually a simple universal webapp with 2 screens. Hope
 
 In the following sections, I have listed the design philosophy in this project template.
 
+## Yeoman Generator
+
+To generate a project, run the following command:
+```sh
+yo nextjs-template
+```
+
 ## Getting Started
 
 To run this example, simply do:
