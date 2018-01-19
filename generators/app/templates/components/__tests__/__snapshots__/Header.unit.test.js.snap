@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render correctly with imagePath=/ 1`] = `
+<div
+  class="header"
+>
+  <div
+    class="container"
+  >
+    <a
+      href="/"
+    >
+      <img
+        src="/favicon.png"
+      />
+    </a>
+    <span>
+      header.title
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<Header /> should render correctly with imagePath=https://ssl-gumtree.classistatic.com/jobs/job-app/ 1`] = `
+<div
+  class="header"
+>
+  <div
+    class="container"
+  >
+    <a
+      href="/"
+    >
+      <img
+        src="https://ssl-gumtree.classistatic.com/jobs/job-app/favicon.png"
+      />
+    </a>
+    <span>
+      header.title
+    </span>
+  </div>
+</div>
+`;
